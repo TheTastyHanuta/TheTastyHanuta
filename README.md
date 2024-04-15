@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TheTastyHanuta
 - 👀 I’m interested in coding and games
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me discord
+- 📫 How to reach me discord thetastyhanuta
 
 <!---
 TheTastyHanuta/TheTastyHanuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
